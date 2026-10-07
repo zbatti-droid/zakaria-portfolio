@@ -131,6 +131,56 @@ export const DATA = {
       image: "/projects/bella-beaute.png",
       video: "",
     },
+{
+  title: "Dar Sidi Bibi — Moroccan Restaurant",
+  href: "https://dar-sidi-bibi-restaurant.vercel.app/",
+  dates: "2026",
+  active: true,
+  description:
+    "A premium bilingual Moroccan restaurant website with menu showcase, online reservations, gallery, WhatsApp integration and a custom admin dashboard.",
+  technologies: [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Prisma",
+    "PostgreSQL",
+    "Supabase",
+    "GSAP"
+  ],
+  links: [
+    {
+      type: "View Live",
+      href: "https://dar-sidi-bibi-restaurant.vercel.app/",
+      icon: <Icons.globe className="size-3" />,
+    },
+    {
+      type: "GitHub",
+      href: "https://github.com/zbatti-droid",
+      icon: <Icons.github className="size-3" />,
+    },
+  ],
+  image: "/projects/dar-sidi-bibi.png",
+  video: "",
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
       title: "STYLE-NA — Fashion Store",
       href: "https://style-na-frontend.vercel.app/",
