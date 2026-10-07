@@ -64,7 +64,7 @@ export const DATA = {
       badges: ["Final Year Project"],
       location: "Agadir, Morocco",
       title: "Full-Stack Developer",
-      logoUrl: "/logos/diplochain.png",
+     logoUrl: "/education/diplochain.png",
       start: "2025",
       end: "Present",
       
