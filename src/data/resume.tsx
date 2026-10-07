@@ -49,6 +49,20 @@ export const DATA = {
         icon: Icons.github,
         navbar: true,
       },
+
+
+    LinkedIn: {
+      name: "LinkedIn",
+      url: "https://www.linkedin.com/in/zakaria-batti",
+      icon: Icons.linkedin,
+      navbar: true,
+    },
+
+
+
+
+
+
       email: {
         name: "Send Email",
         url: "mailto:battizakaria15@gmail.com",
