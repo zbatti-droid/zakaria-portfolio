@@ -211,7 +211,7 @@ export const DATA = {
       description: "A responsive dress shop built with React, TypeScript and Vite, with a direct WhatsApp enquiry flow.",
       technologies: ["React", "TypeScript", "Vite", "WhatsApp"],
       links: [{ type: "View Live", href: "https://projet-javascript-1.vercel.app/", icon: <Icons.globe className="size-3" /> }],
-      image: "/projects/booking.svg",
+      image: "/projects/boutique-robes.png",
       video: "",
     },
     {
@@ -222,7 +222,7 @@ export const DATA = {
       description: "A focused café landing page with responsive layouts, clear content hierarchy and mobile-first presentation.",
       technologies: ["HTML", "CSS", "JavaScript", "Responsive Design"],
       links: [{ type: "View Live", href: "https://coffee-website-eta-ten.vercel.app/", icon: <Icons.globe className="size-3" /> }],
-      image: "/projects/landing-pages.svg",
+     image: "/projects/coffee-website.png",
       video: "",
     },
   ]
