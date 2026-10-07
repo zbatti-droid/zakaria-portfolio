@@ -51,7 +51,7 @@ export const DATA = {
       },
 
 
-    LinkedIn: {
+ linkedin: {
       name: "LinkedIn",
       url: "https://www.linkedin.com/in/zakaria-batti",
       icon: Icons.linkedin,
